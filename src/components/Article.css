@@ -1,0 +1,17 @@
+.Article{
+  border-bottom: 1px solid grey;
+  padding: 10px;
+
+}
+
+h1{
+  font-size: large;
+  margin-top:10px;
+  cursor: pointer;
+}
+
+.Number{
+  color: grey;
+  font-size: small;
+}
+
